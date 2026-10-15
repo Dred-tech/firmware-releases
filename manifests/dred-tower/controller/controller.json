@@ -2,10 +2,10 @@
   "schema": 1,
   "product": "DRED-TOWER-CONTROLLER",
   "hardware": "REV-A",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "critical": false,
-  "size": 1058800,
-  "sha256": "635c236ac4a168d5e949c5b259ab4072742180161904ffc318deacac5714b00a",
-  "firmware_url": "https://github.com/Dred-tech/firmware-releases/releases/download/dred-tower-controller-v1.0.1/dred-tower-controller.bin",
-  "signature_url": "https://github.com/Dred-tech/firmware-releases/releases/download/dred-tower-controller-v1.0.1/dred-tower-controller.sig"
+  "size": 1330336,
+  "sha256": "845a78a1f8f66f89e3f6d03817a91dcede34e44b39e8067521f3a3e8dca23201",
+  "firmware_url": "https://github.com/Dred-tech/firmware-releases/releases/download/dred-tower-controller-v1.0.2/dred-tower-controller.bin",
+  "signature_url": "https://github.com/Dred-tech/firmware-releases/releases/download/dred-tower-controller-v1.0.2/dred-tower-controller.sig"
 }
