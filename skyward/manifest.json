@@ -1,1 +1,1 @@
-{"commit": "6a243ee4dad4cf9cdadd08389e064861a8f2d4c7", "platform": "debian12-arm64", "product": "SKYWARD", "sha256": "533f7b2c61d4741a3e1e542c743fb81e1f50e86b88815f8e40b53344390a0665", "size": 95185, "version": "0.2.5"}
+{"commit": "e06d510a262a4749269dc3ca6c97269aade40ae3", "platform": "debian12-arm64", "product": "SKYWARD", "sha256": "2e1c7ab534e890d11f23b223bd71e95203e3036cef117be471a6bebe8aa52364", "size": 95178, "version": "0.2.6"}
